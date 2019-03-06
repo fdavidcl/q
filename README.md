@@ -1,6 +1,10 @@
 # q
 Easy q for anything: reading lists, pending tasks...
 
+## Dependencies
+
+Ruby.
+
 ## Installation
 
 Copy `q` to your `.local/bin` or other directory in your `$PATH`! Don't forget to `chmod +x q`.
